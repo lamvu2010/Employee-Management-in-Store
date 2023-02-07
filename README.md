@@ -1,2 +1,2 @@
 # Employee-Management-in-Store
-only for teamilk café
+only for milktea café
